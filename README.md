@@ -13,6 +13,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranim-K&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark_dimmed)
 
 ## 🌐 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](YourPortfolioLink)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YourLinkedIn)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](YourTwitter)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](YourPortfolioLink)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YourLinkedIn)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](YourTwitter)  
