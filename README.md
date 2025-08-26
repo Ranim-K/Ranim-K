@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Ranim's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Ranim-K&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark_dimmed))  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranim-K&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark_dimmed)
 
 ## 🌐 Connect With Me  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](YourPortfolioLink)  
